@@ -6,8 +6,6 @@ Aplikasi ini merupakan aplikasi chat real-time yang dibangun menggunakan teknolo
 
 Berbeda dengan HTTP yang bekerja dengan sistem request-response, WebSocket memungkinkan koneksi tetap terbuka sehingga pengiriman pesan dapat dilakukan secara instan tanpa perlu refresh halaman.
 
-Proyek ini dibuat untuk mempelajari implementasi komunikasi real-time pada aplikasi mobile.
-
 ---
 
 ## Fitur Utama
