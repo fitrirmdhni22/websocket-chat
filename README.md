@@ -63,7 +63,7 @@ websocket-chat/
 
 ---
 
-## Tampilan Aplikasi
+## Tampilan
 
 <img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/89f9cc5f-c104-449f-8218-87e13df67529" />
 
