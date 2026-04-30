@@ -24,15 +24,11 @@ Proyek ini dibuat untuk mempelajari implementasi komunikasi real-time pada aplik
 
 Dalam eksperimen ini, digunakan beberapa tools dan teknologi berikut:
 
-· Node.js sebagai runtime untuk menjalankan server
-
-· Library ws untuk implementasi WebSocket
-
-· Visual Studio Code sebagai code editor
-
-· Browser (Google Chrome / Edge) untuk menjalankan client
-
-· Command Prompt / PowerShell untuk menjalankan perintah npm
+Node.js sebagai runtime untuk menjalankan server
+- Library ws untuk implementasi WebSocket
+- Visual Studio Code sebagai code editor
+- Browser (Google Chrome / Edge) untuk menjalankan client
+- Command Prompt / PowerShell untuk menjalankan perintah npm
 
 ---
 
